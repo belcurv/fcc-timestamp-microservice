@@ -1,6 +1,6 @@
 ### FCC Timestamp Microservice
 
-**Objective:** Build a full stack JavaScript app that is functionally similar to [this](https://timestamp-ms.herokuapp.com/) and deploy it to Heroku.
+**Objective:** Build a full stack JavaScript app that is functionally similar to [this](https://timestamp-ms.herokuapp.com/) and deploy it to Glitch.
 
 Here are the specific **user stories** you should implement for this project:
 
@@ -13,9 +13,9 @@ Here are the specific **user stories** you should implement for this project:
 Example usage:
 
 ```
-https://timestamp-ms.herokuapp.com/December%2015,%202015
+https://jrs-pjm-fcc-timestamp-microservice.glitch.me/December%2015,%202015
                    - or -
-https://timestamp-ms.herokuapp.com/1450137600
+https://jrs-pjm-fcc-timestamp-microservice.glitch.me/1450137600
 ```
 
 Outputs:
