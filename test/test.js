@@ -36,7 +36,8 @@ describe('tsService Module', function() {
     });
 
     
-    it('should return 0 when passed Jan 1, 1970', function() {
+    it('should return 0 when passed Jan 1, 1970',
+       function() {
         assert.deepEqual(
             { unix: 0, natural: 'January 1, 1970' },
             tsService('January 1, 1970')
